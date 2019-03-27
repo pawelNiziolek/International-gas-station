@@ -4,7 +4,7 @@ First small project in React JS
 
 ## General info
 
-I used React (react, react DOM, babel), html, css.
+I used React (react DOM, babel), html, css.
 You can choose the type of fuel and check its price in different currencies.
 
 ## Screenshots
