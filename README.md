@@ -9,7 +9,7 @@ You can choose the type of fuel and check its price in different currencies.
 
 ## Screenshots
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](./images/screenshot.jpg)
 
 ## Technologies
 
