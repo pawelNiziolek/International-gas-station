@@ -33,4 +33,4 @@ Project inspired by cours https://www.udemy.com/kurs-react-od-podstaw/
 
 ## Contact
 
-Created by Paweł Niziołek e-mail: pawel.r.niziolek@gmail.com - contact me!
+Created by Paweł Niziołek e-mail: pawel.r.niziolek@gmail.com or linkedIn: https://www.linkedin.com/in/pawel-niziolek/ - contact me!
